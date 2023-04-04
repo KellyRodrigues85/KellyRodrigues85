@@ -4,6 +4,7 @@
 - Me pergunte sobre: **Python, SQL, Power BI, Excel e ETL**
 
 - 📫 Como me contactar **kellyrodrigues8519@gmail.com**
+- 🌱 Atualmente estou aprendendo : **Python e Machine Learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
